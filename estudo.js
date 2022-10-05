@@ -1,30 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@JuliaFiori09
-jesusmaringa /
-primeirod_3t
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-primeirod_3t/estudo.js /
-@jesusmaringa
-jesusmaringa Update estudo.js
-Latest commit e874452 1 minute ago
-History
-1 contributor
-30 lines (26 sloc) 1005 Bytes
 let tabuada = 6;
 
 function escreva(){
