@@ -7,6 +7,21 @@
     border-radius: 10px;
 
 }
+.spMes {
+    border-color:  #43372B;
+    border-width: 1px;
+    border-style: dashed;
+    background:  #43372B;
+    color: white;
+    text-align: start;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
+#calculadora input:focus{
+    background: white;
+    color: black;
+}
 #calculadora input {
     background: #EBCDC3;
     color: white;
@@ -38,7 +53,7 @@
     cursor: pointer;
 }
  h3 {
-     color: white;
+     color:  #43372B;
  }
  .calcF{
   display: none;
@@ -52,3 +67,4 @@
 #input-calcF:checked + #calculadora .calcF {
     display:block;
 }
+
